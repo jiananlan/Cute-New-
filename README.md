@@ -1,4 +1,4 @@
-# Cute-New-
+# Cute-New-spotting-group 介绍文档
 Plane spotting group "Cute new"'s description.
 
 <h1>我们的水印（logo）：</h1>
