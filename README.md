@@ -8,5 +8,7 @@ Plane spotting group "Cute new"'s description.
     https://www.jetphotos.com/group/309
     <h2>微信公众号:</h2>
     Cute New
+    <h2>微博:</h2>
+    CuteNew
 <h1>成员自我介绍（部分）</h1
     >
