@@ -1,5 +1,5 @@
 # Cute-New-spotting-group 介绍文档
-Plane spotting group "Cute new"'s description.
+
 
 <h1>我们的水印（logo）：</h1>
 <image src="深色水印.png">
@@ -12,3 +12,5 @@ Plane spotting group "Cute new"'s description.
     CuteNew
 <h1>成员自我介绍（部分）</h1
     >
+<h2>chopper</h2>
+一位来自广州的航空观察员
