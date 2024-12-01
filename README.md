@@ -7,9 +7,13 @@
     <h2>Jetphotos:（主要）</h2>
     https://www.jetphotos.com/group/309
     <h2>微信公众号:</h2>
-    Cute New
+    Cute New航空摄影
     <h2>微博:</h2>
-    CuteNew
+    CuteNew航空
+    <h2>小红书:</h2>
+    CuteNew航空摄影
+    <h2>Bilibili:</h2>
+    CuteNew航空摄影
 <h1>成员自我介绍（部分）</h1
     >
 <h2>chopper</h2>
